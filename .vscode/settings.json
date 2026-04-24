@@ -1,4 +1,5 @@
 {
+    "snyk.advanced.autoSelectOrganization": true,
     "snyk.advanced.organization": "8865fff8-fe48-4db9-bf8d-75ac84793caa",
-    "snyk.advanced.autoSelectOrganization": true
+    "snyk.securityAtInception.autoConfigureSnykMcpServer": true
 }
